@@ -1,16 +1,12 @@
 package com.example;
-
 /**
 *this is a class.
 */
-
 public class Greeter {
 /**
 *this is a constructor.
 */
-  
   public Greeter() {
-
   }
   /*
   *@param some name of someone.
