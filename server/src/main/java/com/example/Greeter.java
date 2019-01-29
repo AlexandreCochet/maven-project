@@ -8,7 +8,7 @@ public class Greeter {
 */
   public Greeter() {
   }
-  /*
+  /**
   *{@param} some name of someone.
   *{@return} greeting string.
   */
