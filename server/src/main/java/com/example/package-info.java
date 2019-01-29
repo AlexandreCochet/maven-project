@@ -1,4 +1,4 @@
 /**
 *Javadoc du package.
 */
-package Greetings.java;
+package Greeter.java;
